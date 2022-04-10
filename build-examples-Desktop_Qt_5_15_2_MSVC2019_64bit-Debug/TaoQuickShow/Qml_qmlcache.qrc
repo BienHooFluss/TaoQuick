@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="Qml/main.qml">../../examples/TaoQuickShow/Qml/main.qml</file>
+        <file alias="Qml/Biz/CircleText.qml">../../examples/TaoQuickShow/Qml/Biz/CircleText.qml</file>
+        <file alias="Qml/Biz/CloseBtn.qml">../../examples/TaoQuickShow/Qml/Biz/CloseBtn.qml</file>
+        <file alias="Qml/Biz/LangBtn.qml">../../examples/TaoQuickShow/Qml/Biz/LangBtn.qml</file>
+        <file alias="Qml/Biz/SkinBtn.qml">../../examples/TaoQuickShow/Qml/Biz/SkinBtn.qml</file>
+        <file alias="Qml/Page/ControlsShow.qml">../../examples/TaoQuickShow/Qml/Page/ControlsShow.qml</file>
+        <file alias="Qml/Pane/LeftPane.qml">../../examples/TaoQuickShow/Qml/Pane/LeftPane.qml</file>
+        <file alias="Qml/Pane/RightPane.qml">../../examples/TaoQuickShow/Qml/Pane/RightPane.qml</file>
+        <file alias="Qml/Pane/TitlePane.qml">../../examples/TaoQuickShow/Qml/Pane/TitlePane.qml</file>
+        <file alias="Qml/Page/Home.qml">../../examples/TaoQuickShow/Qml/Page/Home.qml</file>
+        <file alias="Qml/Pane/ContentModel.qml">../../examples/TaoQuickShow/Qml/Pane/ContentModel.qml</file>
+        <file alias="Qml/Dialog/AboutDialog.qml">../../examples/TaoQuickShow/Qml/Dialog/AboutDialog.qml</file>
+        <file alias="Qml/Dialog/SettingsDialog.qml">../../examples/TaoQuickShow/Qml/Dialog/SettingsDialog.qml</file>
+        <file alias="Qml/Biz/ExpandBtn.qml">../../examples/TaoQuickShow/Qml/Biz/ExpandBtn.qml</file>
+    </qresource>
+</RCC>
